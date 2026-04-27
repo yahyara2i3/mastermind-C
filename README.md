@@ -1,5 +1,5 @@
 # mastermind-c
-Jeu MASTERMIND en language C -1ere année EST
+Jeu MASTERMIND en language C 
 # 🎯 Jeu Mastermind en C
 
 Ce projet a été réalisé dans le cadre de ma première année en Génie Informatique à l'EST (École Supérieure de Technologie). Il s'agit d'une implémentation du célèbre jeu de société Mastermind en langage C, jouable directement dans la console.
